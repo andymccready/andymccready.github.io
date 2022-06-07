@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Copernicus';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://oda.com/static/fonts/copernicus-bold.woff2') format('woff2'),
+         url('https://oda.com/static/fonts/copernicus-bold.woff') format('woff');
+  }
