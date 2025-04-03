@@ -28,3 +28,12 @@ header {
 .social-links li {
     display: inline;
 }
+
+.employer {
+    padding-bottom: 5px;
+}
+
+.employer h2 a {
+    text-decoration: none;
+    color: #000;
+}
