@@ -12,6 +12,10 @@ header {
     padding: 10px 0;
 }
 
+main {
+    max-width: 1250px;
+}
+
 #home-icon {
     vertical-align: bottom;
 }
